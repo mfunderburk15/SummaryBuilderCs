@@ -1,0 +1,14 @@
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.exe
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.deps.json
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.runtimeconfig.json
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.runtimeconfig.dev.json
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.dll
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\bin\Debug\netcoreapp3.1\SummarizingTextCs.pdb
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.csproj.AssemblyReference.cache
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.AssemblyInfoInputs.cache
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.AssemblyInfo.cs
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.csproj.CoreCompileInputs.cache
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.dll
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.pdb
+C:\Users\masen\source\repos\SummarizingTextCs\SummarizingTextCs\obj\Debug\netcoreapp3.1\SummarizingTextCs.genruntimeconfig.cache
